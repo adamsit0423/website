@@ -1,8 +1,9 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
 
 # website settings
-website:
-  title: "Ian Adams"                                # Your name
+project:
+type: website
+output-dir: docs
+  title: "Ian Adams"                                
   description: ""   # A brief slogan (optional)
   image: img/my_image.jpg
   
