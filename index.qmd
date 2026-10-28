@@ -1,0 +1,28 @@
+---
+about:
+  template: trestles
+  id: right-side-content
+  image: "img/front.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/adamsit0423
+    - icon: envelope
+      text: Email
+      href: "mailto:ita@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+
+# Welcome to my website!
+
+My name is Ian Adams, I am a research core manager and graduate student at Case Western Reserve University in Cleveland, Ohio.
+
+
+
+
+
+
+
